@@ -1,0 +1,6 @@
+
+
+headers = {
+    'x-rapidapi-host': "adsbexchange-com1.p.rapidapi.com",
+    'x-rapidapi-key': "[[ your api key here ]]"
+    }
